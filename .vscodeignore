@@ -10,3 +10,4 @@ extend-new-file**
 vsc-extension**
 **/test/**
 **/*.js.map
+**/demo.png
